@@ -1,5 +1,4 @@
-A project made during traing at Oracle in order to brushen up the concepts of java.
+## Spring_App
 
-To run this project 
-1. mvn package
-2. mvn spring-boot:run
+A project made during traing at Oracle in order to brushen up the concepts of java which is a monolithic authenticated java application connected to sql database.
+
